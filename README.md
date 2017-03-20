@@ -14,10 +14,10 @@ clone the repo
 navigate to the repo
 
  install frontend dependencies
- npm install
+ * `npm install`
  
  install backend dependencies
- composer install
+ * `composer install`
  
  go to config/settings.php to add your database configuration file
  
