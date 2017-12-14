@@ -1,14 +1,13 @@
 {
-    "name": "Citirep Backend",
-    "description": "Description of the project",
-    "keywords": ["microframework", "rest", "router", "psr7"],
-    "homepage": "http://github.com/slimphp/Slim-Skeleton",
+    "name": "Php Slim React Redux BoilerPlate",
+    "description": "A simple boilerplate",
+    "keywords": ["microframework", "rest", "router", "psr7", "react", "php", "slip", "react-router", "redux"],
+    "homepage": "https://github.com/raheemazeezabiodun/Php-Slim-React_Redux-Base/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "Raheem Azeez Abiodun",
+            "email": "raheemazeez4@gmail.com"
         }
     ],
     "require": {

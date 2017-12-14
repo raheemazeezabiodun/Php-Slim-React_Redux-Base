@@ -21,7 +21,7 @@ return [
             'host' => 'localhost',
             'database' => 'php-slim-react-redux-base',
             'username' => 'root',
-            'password' => 'biodunhayzed24,.',
+            'password' => '',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
